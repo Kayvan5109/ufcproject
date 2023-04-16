@@ -9,7 +9,7 @@ def display_fight_history(fighter_name):
 # Load the datasets
 ufc_stat = pd.read_csv("ufc_stat.csv")
 fighters = pd.read_csv("fighters.csv")
-ufc_avg = pd.read_csv("ufc_avg.csv")
+ufc_avg = pd.read_csv("averages.csv")
 ufc_std = pd.read_csv("ufc_std.csv")
 
 # Set page title
