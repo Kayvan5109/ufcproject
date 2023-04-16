@@ -4,6 +4,8 @@ import streamlit as st
 # Load the datasets
 ufc_stat = pd.read_csv("ufc_stat.csv")
 fighters = pd.read_csv("fighters.csv")
+ufc_avg = pd.read_csv("ufc_avg.csv")
+ufc_std = pd.read_csv("ufc_std.csv")
 
 # Set page title
 st.set_page_config(page_title="UFC Fighter Stats")
@@ -17,7 +19,7 @@ fighter_name = st.text_input("Enter a fighter's name:")
 # Filter fighter stats by name
 fighter_stats = fighters[fighters["Fighter Name"].str.contains(fighter_name)]
 
-# Display fighter stats
+# Display fighter stats and weight class stats
 if not fighter_stats.empty:
     st.subheader(fighter_name)
     st.write(fighter_stats[["Fighter Name", "Weight Class", "# of Fights", "Wins", "Decision Wins", "KO/TKO Wins", "Submission Wins",
@@ -25,15 +27,14 @@ if not fighter_stats.empty:
                             "average control time", "LP Count", "Bangfest Count", "strikes absorbed per fight", "Stinker Count",
                             "Potential Robbery Count", "Standup Count", "Comeback Count", "Massacre Count"]])
     
-    st.subheader("UFC Stat Data")
+    weight_class = fighter_stats.iloc[0]["Weight Class"]
+    weight_class_avg = ufc_avg[ufc_avg["Weight Class"] == weight_class].reset_index(drop=True)
+    weight_class_std = ufc_std[ufc_std["Weight Class"] == weight_class].reset_index(drop=True)
     
-    # Filter ufc_stat by fighter name in either "Fighter 1" or "Fighter 2"
-    ufc_fighter_stats = ufc_stat[(ufc_stat["Fighter 1"].str.contains(fighter_name)) | (ufc_stat["Fighter 2"].str.contains(fighter_name))]
+    st.subheader(f"{weight_class} Average Stats")
+    st.write(weight_class_avg)
     
-    # Display ufc_stat data
-    if not ufc_fighter_stats.empty:
-        st.write(ufc_fighter_stats)
-    else:
-        st.write("No fighter found in UFC Stat data.")
+    st.subheader(f"{weight_class} Standard Deviations")
+    st.write(weight_class_std)
 else:
     st.write("No fighter found with that name.")
