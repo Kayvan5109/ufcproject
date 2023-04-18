@@ -1,0 +1,529 @@
+Fighter 1,Fighter 2,Winner,Weight Class,Venue,Title Fight,Main Event,F1 Lay Pray,F2 Lay Pray,Winner LP,F1 Failed LP,F2 Failed LP,Decisions,Stinker,F1 Frozen,F2 Frozen,Potential Robbery,Stand Up,F1 Active,F2 Active,Comeback Win,BangFest,F1 Head Hunter,F2 Head Hunter,F1 Leg Kicker,F2 Leg Kicker,Paul Craig,Massacre,F1 Beatdown,F2 Beatdown,Submission,KO
+Marlon Vera,Cory Sandhagen,F2,BW,"San Antonio, TX",0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,1,1,0,0,0,1,0,0
+Nate Landwehr,Austin Lingo ,F1,FW,"San Antonio, TX",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0
+Chidi Njokuani,Albert Duraev,F2,MW,"San Antonio, TX",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0
+Daniel Pineda,Tucker Lutz,F1,FW,"San Antonio, TX",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0
+Steven Peterson,Lucas Alexander,F2,FW,"San Antonio, TX",0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0
+Trevin Giles,Preston Parsons,F1,WW,"San Antonio, TX",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+CJ Vegara,Daniel Lacerda,F1,FYW,"San Antonio, TX",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,1
+Victor Altamirano,Vinicius Salvador,F1,FYW,"San Antonio, TX",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Leon Edwards,Kamaru Usman,F1,WW,"London, England",1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Justin Gaethje,Rafael Fiziev,F1,LW,"London, England",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Gunnar Nelson,Bryan Barbarena,F1,WW,"London, England",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Marvin Vettori,Roman Dolidze ,F1,MW,"London, England",0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Jack Shore,Makwan Amirkhani,F1,FW,"London, England",0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Chris Duncan ,Omar Morales,F1,LW,"London, England",0,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Sam Patterson,Yanal Ashmoz,F2,LW,"London, England",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,1
+Muhammad Mokaev,Jafael Filho ,F1,FYW,"London, England",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+Lerone Murphy,Gabriel Santos,F1,FW,"London, England",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Chris Duncan,Dusko Todorovic,F1,MW,"London, England",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1
+Jake Hadley,Malcom Gordon,F1,FYW,"London, England",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1
+Jai Herbert,Ludovit Klein,Draw,LW,"London, England",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Petr Yan,Merab Dvalishvili,F2,BW,"Las Vegas, NV",0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,1,1,0,0,0,1,0,0
+Alexander Volkov,Alexander Romanov,F1,HW,"Las Vegas, NV",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1
+Nikita Krylov,Ryan Spann,F1,LHW,"Las Vegas, NV",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+Said Nurmagomedov,Jonathan Martinez,F2,BW,"Las Vegas, NV",0,0,0,1,1,0,0,1,1,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0
+Mario Bautista,Guido Cannetti,F1,BW,"Las Vegas, NV",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Vito Petrino,Anton Turkalj,F1,LHW,"Las Vegas, NV",0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Karl Williams,Lukasz Brzeski,F1,HW,"Las Vegas, NV",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Raphael Assuncao ,Davey Grant,F2,BW,"Las Vegas, NV",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0
+Sedriques Dumas,Josh Fremd,F2,MW,"Las Vegas, NV",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+Victor Henry,Tony Gravely,F1,BW,"Las Vegas, NV",0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0
+Tyson Nam,Bruno Silva,F2,FYW,"Las Vegas, NV",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0
+Carlston Harris,Jared Gooden,F1,WW,"Las Vegas, NV",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Jon Jones,Ciryl Gane,F1,HW,"Las Vegas, NV",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,1,0
+Geoff Neal,Shavkat Rakhmonov,F2,WW,"Las Vegas, NV",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,1,0
+Mateusz Gamrot,Jalin Turner,F1,LW,"Las Vegas, NV",0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+Bo Nickal,Jamie Pickett,F1,MW,"Las Vegas, NV",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Cody Garbrandt,Trevin Jones,F1,BW,"Las Vegas, NV",0,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Derek Brunson,Dricus Du Plessis,F2,MW,"Las Vegas, NV",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+Julian Marquez,Marc-Andre Barriault,F2,MW,"Las Vegas, NV",0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,1,1,0,0,0,0,0,0,1
+Ian Garry,Song Kenan,F1,WW,"Las Vegas, NV",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,1,0,0,1
+Mana Martinez,Cory Saaiman,F2,BW,"Las Vegas, NV",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,1,0,0,0,1,0,0
+Damon Blackshear,Farid Basharat,F2,BW,"Las Vegas, NV",0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Esteban Ribovics ,Loik Radzhabov,F2,LW,"Las Vegas, NV",0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Andre Muniz,Brendan Allen,F2,MW,Apex,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,1,0
+Augusto Sakai,Don'Tale Mayes,F1,HW,Apex,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Mike Malott,Yohann Lainesse,F1,WW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+Erick Gonzalez,Trevor Peek,F2,LW,Apex,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,1
+Jordan Leavitt,Victor Martinez,F1,LW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,0,1
+Ode Osbourne,Charles Johnson,F1,FYW,Apex,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0
+Joe Solecki ,Carl Deaton,F1,LW,Apex,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0
+Rafael Alves,Nurullo Aliev,F1,LW,Apex,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+Jordan Wright ,Zach Pauga ,F2,LHW,Apex,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Josh Parisian,Jamal Pogues,F2,HW,Apex,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+William Knight,Marcin Prachnio,F2,LHW,Apex,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0
+Jim Miller,Alexander Hernandez,F2,LW,Apex,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,1,1,0,0,0,0,1,0,0
+Nazim Sadykhov,Evan Elder,F1,LW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0
+Jamall Emmers,Khusein Askhabov ,F1,FW,Apex,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Ovince St. Preux,Philipe Lins,F2,LHW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1
+AJ Fletcher,Themba Gorimbo,F1,WW,Apex,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0
+Clayton Carpenter ,Juancamilo Ronderos ,F1,FYW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Islam Makhachev,Alexander Volkanovski,F1,LW,"Perth, AUS",1,1,0,0,0,0,0,1,0,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+Yair Rodriguez,Josh Emmet,F1,FW,"Perth, AUS",1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,0
+Jack Maddalena,Randy Brown,F1,WW,"Perth, AUS",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,1,0
+Justin Tafa,Parker Porter,F1,HW,"Perth, AUS",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1
+Jimmy Crute,Alonzo Menifield,DRAW,LHW,"Perth, AUS",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+Tyson Pedro,Modestas Bukauskas,F2,LHW,"Perth, AUS",0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+Josh Culibao,Melsik Baghdasaryan,F1,FW,"Perth, AUS",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0
+Shannon Ross,Kleydson Rodrigues,F2,FYW,"Perth, AUS",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1
+Jamie Mullarkey,Francisco Prado,F1,LW,"Perth, AUS",0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0
+Jack Jenkins,Don Shainis,F1,FW,"Perth, AUS",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Shane Young,Blake Bilder,F2,FW,"Perth, AUS",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0
+Zubair Tukhugov,Elves Brener,F2,LW,"Perth, AUS",0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+Derrick Lewis,Serghei Spivac,F2,HW,Apex,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0
+Da Woon Jung,Devin Clark ,F2,LHW,Apex,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Marcin Tybura,Blagoy Ivanov,F1,HW,Apex,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Dooho Choi,Kyle Nelson,Draw,FW,Apex,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Yusaku Kinoshita ,Adam Fuggit,F2,WW,Apex,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1
+Jeka Saragih,Anshul Jubli,F2,LW,Apex,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+JeongYeong Lee,Zha Yi,F1,FW,Apex,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Toshiomi Kazama,Rinya Nakamura,F2,BW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1
+SeungGuk Choi,HyunSung Park,F2,FYW,Apex,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0,1,0
+Junyong Park,Denis Tiuliulin,F1,MW,Apex,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0
+Tatsuro Taira,Jesus Aguilar,F1,FYW,Apex,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0
+Glover Teixeira,Jamahal Hill,F2,LHW,Brazil,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,1,0,0
+Deiveson Figueiredo,Brandon Moreno,F2,FYW,Brazil,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0
+Gilbert Burns,Neil Magny,F1,WW,Brazil,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Paul Craig,Johnny Walker,F2,LHW,Brazil,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1
+Mauricia Hua,Ihor Potieria,F2,LHW,Brazil,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+Gregory Rodrigues,Brunno Ferreira ,F2,MW,Brazil,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Thiago Moises,Melquizael Costa,F1,LW,Brazil,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0
+Gabriel Bonfim,Mounir Lazzez,F1,WW,Brazil,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,1,0
+Shamil Abdurakhimov,Jailton Almeida,F2,HW,Brazil,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1
+Luan Lacerda,Cody Stamann,F2,BW,Brazil,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Ismael Bonfim ,Terrance McKinney,F1,LW,Brazil,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Warlley Alves,Nicholas Dalby,F2,WW,Brazil,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,1,0,0
+Saimon Oliveira ,Daniel Marcos,F2,BW,Brazil,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+Sean Strickland ,Nassourdine Imavov,F1,MW,Apex,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,1,0,1,0,0,1,0,0,0
+Dan Ige,Damon Jackson,F1,FW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1
+Punahele Soriano,Roman Kopylov,F2,MW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1
+Umar Nurmagomedov,Raoni Barcelos,F1,BW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Javid Basharat,Mateus Mendonca,F1,BW,Apex,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+Claudio Ribeiro,Abdul Razak Alhassan,F2,MW,Apex,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,1
+Mateusz Rebecki,Nick Fiore,F1,LW,Apex,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0
+Allan Nascimento,Carlos Hernandez,F1,FYW,Apex,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+Dan Argueta,Nick Aguirre,F1,FW,Apex,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Charles Johnson,Jimmy Flick,F1,FYW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1
+Jared Cannonier,Sean Strickland,F1,MW,Apex,0,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,1,1,0,0,0,0,0,0,0
+Arman tsarukyan,Damir Ismagulov,F1,LW,Apex,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+Amir Albazi,Alessandro Costa,F1,FYW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Alex Caceres ,Julian Erosa,F1,FW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1
+Drew Dober,Bobby Green,F1,LW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,1,0,0,0,0,1,0,1
+Cody Brundage,Michal Oleksiejczuk,F2,MW,Apex,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1
+Jake Matthews,Matthew Semelsberger,F2,WW,Apex,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Said Nurmagomedov,Saidyokub Kakhramonov,F1,BW,Apex,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,1,0
+Rafa Garcia,Maheshate,F1,LW,Apex,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Bryan Battle,Rinat Fakhretdinov,F2,WW,Apex,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+David Dvorak,Manel Kape,F2,FYW,Apex,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Sergey Morozov,Journey Newson,F1,BW,Apex,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Jan Blachowicz ,Magomed Ankalaev,Draw,LHW,"Las Vegas, NV",1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Paddy Pimblett,Jared Gordon,F1,LW,"Las Vegas, NV",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Santiago Ponzinibbio,Alex Morono,F1,WW,"Las Vegas, NV",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,1,0,0,0,1
+Darren Till,Dricus Du Plessis,F2,MW,"Las Vegas, NV",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,1,0
+Bryce Mitchell,Ilia Topuria,F2,FW,"Las Vegas, NV",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Raul Rosas,Jay Perrin,F1,BW,"Las Vegas, NV",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,1,0
+Jairzinho Rozenstruik,Chris Daukaus,F1,HW,"Las Vegas, NV",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1
+Edmen Shahbazyan,Dalcha Lungiambula,F1,MW,"Las Vegas, NV",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Chris Curtis,Joaquin Buckley,F1,MW,"Las Vegas, NV",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,1
+Billy Quarantillo,Alexander Hernandez,F1,FW,"Las Vegas, NV",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1
+TJ Brown,Erik Silva,F1,FW,"Las Vegas, NV",0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Cory Saaiman,Steven Koslow,F1,BW,"Las Vegas, NV",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1
+Stephen Thompson,Kevin Holland,F1,WW,"Orlando, FL",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,1,0,0,1,0,0,1
+Brian Barbarena,Rafael Dos Anjos,F2,WW,"Orlando, FL",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0
+Matheus Nicolau,Matt Schnell,F1,FYW,"Orlando, FL",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Tai Tuivasa,Sergei Pavlovich,F2,HW,"Orlando, FL",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1
+Jack Hermansson,Roman Dolidze ,F2,MW,"Orlando, FL",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0
+Eryk Anders,Kyle Daukaus,F1,MW,"Orlando, FL",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1
+Niko Price,Phil Rowe,F2,WW,"Orlando, FL",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,1,0,0,1
+Clay Guida,Scott Holtzman,F1,LW,"Orlando, FL",0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0
+Michael Johnson,Marc Diakiese,F1,LW,"Orlando, FL",0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Darren Elkins,Jonathan Pearce,F2,FW,"Orlando, FL",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,1,0,0
+Natan Levy,Genaro Valdez,F1,LW,"Orlando, FL",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Marcelo Rojo,Francis Marshall,F2,FW,"Orlando, FL",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1
+Kennedy Nzechukwu,Ion Cutelaba,F1,LHW,Apex,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Chase Sherman,Waldo Cortes-Acosta,F2,HW,Apex,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0
+Andre Fialho,Muslim Salikhov,F2,WW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,1
+Jack Maddalena,Danny Roberts,F1,WW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Charles Johnson,Zhalgas Zhumagulov,F1,FYW,Apex,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,1,0,0,1,0,0,0,0,0,0
+Vince Morales,Miles Johns,F2,BW,Apex,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Ricky Turcios,Kevin Natividad,F1,BW,Apex,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Brady Hiestand,Fernando Garcia,F1,BW,Apex,0,0,1,0,1,0,0,1,1,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+Israel Adesanya,Alex Pereira,F2,MW,"MSG, NY",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1
+Dustin Poirer ,Michael Chandler,F1,LW,"MSG, NY",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0
+Frankie Edgar,Chris Gutierrez,F2,BW,"MSG, NY",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1
+Dan Hooker,Claudio Puelles,F1,LW,"MSG, NY",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+Brad Riddell,Renato Moicano,F2,LW,"MSG, NY",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,1,0
+Dominick Reyes,Ryan Spann,F2,LHW,"MSG, NY",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Andre Petroski,Wellington Turman,F1,MW,"MSG, NY",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Matt Frevola,Ottman Azaitar,F1,LW,"MSG, NY",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Mike Trizano,Seung-Woo Choi,F1,FW,"MSG, NY",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1
+Julio Arce,Montel Jackson,F2,BW,"MSG, NY",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Carlos Ulberg,Nicolae Negumereanu,F1,LHW,"MSG, NY",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1
+Neil Magny,Daniel Rodriguez,F1,WW,Apex,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0
+Derrick Minner,S. Nuerdanbieke,F2,FW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1
+Tagir Ulanbekov,Nate Maness,F1,FYW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0
+Grant Dawson,Mark Madsen,F1,LW,Apex,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0
+Mario Bautista,Benito Lopez,F1,BW,Apex,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0
+Liudvik Sholinian,Johnny Munoz,F2,BW,Apex,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0
+Carlos Candelario,Josh Hadley,F2,FYW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,1,0
+Calvin Kattar,Arnold Allen,F2,FW,Apex,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+Tim Means,Max Griffin ,F2,WW,Apex,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+Waldo Cortes-Acosta,Jared Vanderaa,F1,HW,Apex,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+Josh Fremd ,Tresean Gore,F2,MW,Apex,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0
+Dustin Jacoby,Khalil Rountree,F2,LHW,Apex,0,0,0,0,0,0,0,1,0,0,0,1,1,1,1,1,0,1,0,1,1,0,0,0,0,0,0
+Phil Hawes,Roman Dolidze ,F2,MW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Andre Arlovski,Marcos de Lima,F2,HW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,1,0
+Joseph Holmes,Jun-Yong Park,F2,MW,Apex,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0
+Chase Hooper,Steve Garcia,F2,FW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1
+Cody Durden,Carlos Mota,F1,FYW,Apex,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Christian Rodriguez,Joshua Weems,F1,BW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0
+Charles Oliveira,Islam Makhachev,F2,LW,Abu Dhabi,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Aljamain Sterling,TJ Dillashaw ,F1,BW,Abu Dhabi,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1
+Petr Yan,Sean O'Malley,F2,BW,Abu Dhabi,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+Beniel Dariush,Mateusz Gamrot,F1,LW,Abu Dhabi,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Belal Muhammad,Sean Brady,F1,WW,Abu Dhabi,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1
+Makhmud Muradov,Caio Borralho,F2,MW,Abu Dhabi,0,0,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Volkan Oezdemir,Nikita Krylov,F1,LHW,Abu Dhabi,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+A. Nurmagomedov,Gadzhi Omargadzhiev,F1,WW,Abu Dhabi,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Armen Petrosyan,AJ Dobson,F1,MW,Abu Dhabi,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0
+Muhammad Mokaev,Malcom Gordon,F1,FYW,Abu Dhabi,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Cub Swanson,Jonathan Martinez,F2,BW,Apex,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+Jordan Wright,Dusko Todorovic,F2,MW,Apex,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Raphael Assuncao ,Victor Henry,F1,BW,Apex,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Misha Cirkunov,Alonzo Menifield,F2,LHW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,0,1
+Mana Martinez,Brandon Davis,F1,BW,Apex,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Nick Maximov,Jacob Malkoun,F2,MW,Apex,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+Joanderson Brito,Lucas Alexander,F1,FW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,1,0
+Tatsuro Taira,CJ Vegara,F1,FYW,Apex,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0
+Mike Jackson,Pete Rodriguez,F2,WW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1
+Randy Brown,Francisco Trinaldo,F1,WW,Apex,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Raoni Barcelos,Trevin Jones,F1,BW,Apex,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+Sodiq Yusuff,Don Shainis,F1,FW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+Mike Davis,Viacheslav Borshchev,F1,LW,Apex,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+John Castaneda,Daniel Santos,F2,BW,Apex,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1
+Ilir Latifi,Aleksei  Oleinik,F1,HW,Apex,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Joaquim Silva,Jesse Ronson,F1,LW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1
+Krzysztof Jotko,Brendan Allen,F2,MW,Apex,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Guido Cannetti,Randy Costa ,F1,BW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0
+Cory Sandhagen,Song Yadong ,F1,BW,Apex,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0,1,0
+Chidi Njokuani,Gregory Rodrigues,F2,MW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Andre Fili,Bill Algeo,F1,FW,Apex,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+Joe Pyfer,Alen Amedovski,F1,MW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Tanner Boser,Rordrigo Nascimento,F2,HW,Apex,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0
+Anthony Hernandez,Marc Barriault,F1,MW,Apex,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Damon Jackson,Pat Sabatini,F1,FW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1
+Trevin Giles,Louis Cosce,F1,WW,Apex,0,0,1,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Trey Ogden,Daniel Zellhuber,F1,LW,Apex,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Tony Gravely,Javid Basharat,F2,BW,Apex,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0
+Nikolas Motta,Cameron VanCamp,F1,LW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Nick Diaz,Tony Ferguson,F1,WW,Apex,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+Khamzat Chimaev,Kevin Holland,F1,WW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,1,0
+Li Jingliang,Daniel Rodriguez,F2,WW,Apex,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Johnny Walker,Ion Cutelaba,F1,LHW,Apex,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Hakeem Dawodu,Julian Erosa,F2,FW,Apex,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0
+Jailton Almeida,Anton Turkalj,F1,LHW,Apex,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Denis Tiuliulin,Jamie Pickett,F1,MW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Jake Collier,Chris Barnett,F2,HW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1
+C. Anheliger,Alatengheili,F2,BW,Apex,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Darian Weeks,Yohann Lainesse,F2,WW,Apex,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+Ciryl Gane,Tai Tuivasa,F1,HW,Paris,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,1,0,0,1
+Robert Whittaker,Marvin Vettori,F1,MW,Paris,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0
+Nassourdine Imavov,Joaquin Buckley,F1,MW,Paris,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Alessio Di Chirico,Roman Kopylov,F2,MW,Paris,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1
+W. Gomis,J. Errens,F1,FW,Paris,0,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Charles Jourdain,Nathaniel Wood,F2,FW,Paris,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+A. Magomedov,Dustin Stoltzfus,F1,MW,Paris,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1
+J. Makdessi,Nasrat Haqparast,F2,LW,Paris,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+Fares Ziam,M. Figlak,F1,LW,Paris,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0
+Benoit Saint Denis,G. Miranda,F1,LW,Paris,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+K. Taha,C. Quinonez,F2,BW,Paris,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Stephanie Egger,A. Perez,F1,FW,Paris,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,1,0
+Kamaru Usman,Leon Edwards,F2,WW,Salt Lake,1,1,0,1,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,1
+Paulo Costa,Luke Rockhold,F1,MW,Salt Lake,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Jose Aldo ,Merab Dvalishvili,F2,BW,Salt Lake,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Tyson Pedro,Harry Hunsucker,F1,LHW,Salt Lake,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1
+Marcin Tybura,Alexander Romanov,F1,HW,Salt Lake,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+L. Santos,Jared Gordon,F2,LW,Salt Lake,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,1,0,0,0,0,0,1,0,0
+S. Woodson,Luis Saldana,DRAW,FW,Salt Lake,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+AJ Fletcher,Ange Loosa,F2,WW,Salt Lake,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,1,0,0,0,1,0,0
+Amir Albazi,Francisco Figueiredo,F1,FYW,Salt Lake,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Aoriqileng,Jay Perrin,F1,BW,Salt Lake,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+Daniel Lacerda,Victor Altamirano,F2,FYW,Salt Lake,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,1,0,0,0,0,1,0,1
+Marlon Vera,Dominick Cruz,F1,BW,San Diego,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,0,0,0,0,1
+Nate Landwehr,David Onama,F1,FW,San Diego,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+Devin Clark,A. Murzakanov,F2,LHW,San Diego,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,1
+Bruno Silva,Gerald Meerschaert,F2,MW,San Diego,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0
+Martin Buday,Lukasz Brzeski,F1,HW,San Diego,0,0,0,0,0,0,0,1,0,0,0,1,1,0,1,1,0,1,0,1,1,0,0,0,1,0,0
+G. Benitez,Charlie Ontiveros,F1,LW,San Diego,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1
+Ode Osbourne,Tyson Nam,F2,FYW,San Diego,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1
+Jason Witt,Josh Quinlan,F2,WW,San Diego,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Y. Zalal,Damon Blackshear,DRAW,BW,San Diego,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Thiago Santos,Jamahal Hill,F2,LHW,Apex,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1
+Vincente Luque,Geoff Neal,F2,WW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,1
+Mohammed Usman,Zac Pauga,F1,HW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1
+Augusto Sakai,Serghei Spivac,F2,HW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+Terrance McKinney,E. Gonzalez,F1,LW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0
+Sam Alvey,M. Oleksiejczuk,F2,MW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Bryan Battle,Takashi Sato,F1,WW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,0,1
+Brandon Moreno,Kai Kara-France,F1,BW,"Dallas, TX",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1
+Derrick Lewis,Sergei Pavlovich,F2,HW,"Dallas, TX",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,0,1
+Alexandre Pantoja,Alex Perez,F1,FYW,"Dallas, TX",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0
+Magomed Ankalaev,Anthony Smith,F1,LHW,"Dallas, TX",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1
+Alex Morono,Matthew Semelsberger,F1,WW,"Dallas, TX",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0
+Drew Dober,Rafael Alves,F1,LW,"Dallas, TX",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Don'Tale Mayes,H. Abdelwahab,NC,HW,"Dallas, TX",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Drakkar Klose,Rafa Garcia,F1,LW,"Dallas, TX",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Michael Morales,Adam Fuggit,F1,WW,"Dallas, TX",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1
+Nicolae Negumereanu,Ihor Potieria,F1,LHW,"Dallas, TX",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Orion Cosce,Blood Diamond,F1,WW,"Dallas, TX",0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0
+Curtis Blaydes,Tom Aspinall,F1,HW,"London, England",0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,0,1
+Jack Hermansson,Chris Curtis,F1,MW,"London, England",0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,1,0,0,0
+Paddy Pimblett,Jordan Leavitt,F1,LW,"London, England",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Nikita Krylov,Alexander Gustafsson,F1,LHW,"London, England",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1
+Paul Craig,Volkan Oezdemir,F2,LHW,"London, England",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0
+M. Jones,Ludovit Klein,F2,LW,"London, England",0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Marc Diakiese,D. Hadzovic,F1,LW,"London, England",0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Nathaniel Wood,C. Rosa,F1,FW,"London, England",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0
+Makwan Amirkhani,Jonathan Pearce,F2,FW,"London, England",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,1
+Muhammad Mokaev,Charles Johnson,F1,FYW,"London, England",0,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Jai Herbert,Kyle Nelson,F1,LW,"London, England",0,0,0,1,0,0,1,1,1,0,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+C. Silva,Nicholas Dalby,F2,WW,"London, England",0,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Brian Ortega,Yair Rodriguez,F2,FW,"Elmont, New York",0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Li Jingliang,Muslim Salikhov,F1,WW,"Elmont, New York",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+Matt Schnell,Sumudaerji,F1,FYW,"Elmont, New York",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,1,0
+Shane Burgos,Charles Jourdain,F1,FW,"Elmont, New York",0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0
+Punahele Soriano,Dalcha Lungiambula,F1,MW,"Elmont, New York",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Ricky Simon,Jack Shore,F1,BW,"Elmont, New York",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0
+Bill Algeo,Herbert Burns,F1,FW,"Elmont, New York",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Dustin Jacoby,D. Jung,F1,LHW,"Elmont, New York",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1
+Dwight Grant,Dustin Stoltzfus,F2,MW,"Elmont, New York",0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0
+Rafael Dos Anjos,Rafael Fiziev,F2,LW,Apex,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1
+Caio Borralho,Armen Petrosyan,F1,MW,Apex,0,0,1,0,1,0,0,1,1,0,0,1,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0
+D. Silva de Andrade,Said Nurmagomedov,F2,BW,Apex,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Jared Vanderaa,Chase Sherman,F2,HW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,1,1,1,1,0,0,0,0,0,1
+A. Zahabi,Ricky Turcios,F1,BW,Apex,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Michael Johnson,Jamie Mullarkey,F2,LW,Apex,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,0,1,1,0,1,0,0,0,0,0,0
+Cody Brundage,Tresean Gore,F1,MW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+David Onama,Garret Armfield,F1,FW,Apex,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Kennedy Nzechukwu,Karl Roberson,F1,LHW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+R. Lawrence,S. Kakhramonov,F2,BW,Apex,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Israel Adesanya,Jared Cannonier,F1,MW,"Las Vegas, NV",1,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,0,0,0,0,0
+Alexander Volkonovski,Max Holloway,F1,FW,"Las Vegas, NV",1,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,1,1,1,1,1,0,0,1,0,0,0
+Sean Strickland ,Alex Pereira,F2,MW,"Las Vegas, NV",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Robbie Lawler,Bryan Barbarena,F2,WW,"Las Vegas, NV",0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,1,0,0,0,0,0,1,0,1
+Pedro Munhoz,Sean O'Malley,NC,BW,"Las Vegas, NV",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Brad Riddell,Jalin Turner,F2,LW,"Las Vegas, NV",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,1,0
+Jim Miller,Donald Cerrone,F1,WW,"Las Vegas, NV",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Ian Garry,Gabe Green,F1,WW,"Las Vegas, NV",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+Brad Tavares,Dricus Du Plessis,F2,MW,"Las Vegas, NV",0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+Uriah Hal,Andre Muniz,F2,MW,"Las Vegas, NV",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+J. Clark,Julija Stoliarenko,F2,BW,"Las Vegas, NV",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,1,0,0,1,0
+Arman tsarukyan,Mateusz Gamrot,F2,LW,Apex,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,1,1,1,0,0,0,0,0,0,0
+Neil Magny,Shavkat Rakhmonov,F2,WW,Apex,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0
+Josh Parisian,Alan Baudot,F1,HW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1
+Thiago Moises,C. Giagos,F1,LW,Apex,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0
+Nate Maness,Umar Nurmagomedov,F2,BW,Apex,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+Chris Curtis,R Vieira,F1,MW,Apex,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+Carlos Ulberg,Tafon Nchukwi,F1,LHW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,0,1
+S. Nuerdanbieke,T. Brown,F1,FW,Apex,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+R. Paiva,Sergey Morozov,F2,BW,Apex,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+JP Buys,Cody Durden,F2,FYW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,0,1
+Brian Kelleher,Mario Bautista,F2,BW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,1,0
+Calvin Kattar,Josh Emmet,F2,FW,"Austin, TX",0,1,0,0,0,0,0,1,0,0,0,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0
+Tim Means,Kevin Holland,F2,WW,"Austin, TX",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Joaquin Buckley,Albert Duraev,F1,MW,"Austin, TX",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Damir Ismagulov,Guram Kutateladze,F1,LW,"Austin, TX",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+J. Marquez,Gregory Rodrigues,F2,MW,"Austin, TX",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1
+Adrian Yanez,Tony Kelley,F1,BW,"Austin, TX",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Court McGee,Jeremiah Wells,F2,WW,"Austin, TX",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1
+R. Ramos,D. Chavez,F1,FW,"Austin, TX",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1
+Eddie Wineland,Cody Stamann,F2,BW,"Austin, TX",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Phil Hawes,Deron Winn,F1,MW,"Austin, TX",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1
+Roman Dolidze,Kyle Daukaus,F1,MW,"Austin, TX",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1
+Glover Teixeira,Jiri Prochazka,F2,LHW,Singapore,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,1,0,0,1,0
+Andre Fialho,Jake Matthews,F2,WW,Singapore,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1
+Jack Maddalena,Ramazan Emeev,F1,WW,Singapore,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+S. Choi,Josh Culibao,F2,FW,Singapore,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Maheshate,Steve Garcia,F1,LW,Singapore,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1
+Brendan Allen,Jacob Malkoun,F1,MW,Singapore,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+K. Kang,Batgeral Danaa,F1,BW,Singapore,0,0,0,0,0,0,0,1,0,0,0,1,1,0,1,1,0,1,1,1,1,0,0,0,0,0,0
+Alexander Volkov,Jairzinho Rozenstruik,f1,HW,Apex,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,0,1
+Dan Ige,Movsar Evloev,F2,FW,Apex,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Michael Trizano,Lucas Almeida,F2,FW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,1
+Ode Osbourne,Zarrukh Adashev,F1,FYW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1
+Alonzo Menifield,A. Mozharov,F1,LHW,Apex,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Joe Solecki ,Alex Da Silva,F1,LW,Apex,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Damon Jackson,Dan Argueta,F1,FW,Apex,0,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Niklas Stolze ,Benoit Saint Denis,F2,LW,Apex,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0
+Johnny Munoz,Tony Gravely,F2,BW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1
+Jeff Molina,Zhalgas Zhumagulov,F1,FYW,Apex,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0
+R. Fakhretdinov,A. Michailidis,F1,WW,Apex,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Santiago Ponzinibbio,Michel Pereira,F2,WW,Apex,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0
+Chidi Njokuani,Dusko Todorovic,F1,MW,Apex,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+Eryk Anders,J. Park,F2,MW,Apex,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0
+Joseph Holmes,A. Amedovski,F1,MW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,1,0
+Jailton Almeida,Parker Porter,F1,HW,Apex,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Omar Morales,Uros Medic,F2,LW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1
+Jonathan Martinez,Vince Morales,F1,BW,Apex,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Chase Hooper,F. Colares,F1,FW,Apex,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1
+Jan Blachowicz ,Aleksandar Rakic,F1,LHW,Apex,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+Ryan Spann,Ion Cutelaba,F1,LHW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0
+Davey Grant,Louis Smolka,F1,BW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1
+Frank Camacho,Manuel Torres,F2,LW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1
+Jake Hadley,Allan Nascimento,F2,FYW,Apex,0,0,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Michael Johnson,Alan Patrick,F1,LW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Tatsuro Taira,Carlos Candelario,F1,FYW,Apex,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0
+Nick Maximov,Andre Petroski,F2,MW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,1,0
+Charles Oliveira,Justin Gaethje,F1,LW,"Phoenix, AZ",1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0
+Michael Chandler,Tony Ferguson,F1,LW,"Phoenix, AZ",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1
+Mauricio Hua,Ovince Saint preux,F2,LHW,"Phoenix, AZ",0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Randy Brown,Khaos Williams,F1,WW,"Phoenix, AZ",0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,0,1,0,1,1,0,0,0,0,0,0
+Francisco Trinaldo,Danny Roberts,F1,WW,"Phoenix, AZ",0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+Brandon Royval,Matt Schnell,F1,FYW,"Phoenix, AZ",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,1,0,0,1,0
+Blagoy Ivanov,Marcos de Lima,F1,HW,"Phoenix, AZ",0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Andre Fialho,Cameron VanCamp,F1,WW,"Phoenix, AZ",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,1
+Kleydson Rodrigues,CJ Vegara,F2,FYW,"Phoenix, AZ",0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0
+Journey Newson,Fernie garcia,F1,BW,"Phoenix, AZ",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Rob Font,Marlon Vera,F2,BW,Apex,0,1,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,1,1,0,1,0,0,1,0,0,0
+Andre Arlovski,Jake Collier,F1,HW,Apex,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,1,0,1,1,1,0,0,0,0,0,0,0
+Andre Fili,Joanderson Brito,F2,FW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1
+Jared Gordon,Grant Dawson,F2,LW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0
+Darren Elkins,Tristan Connelly,F1,FW,Apex,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Krzysztof Jotko,Gerald Meerschaert,F1,MW,Apex,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Alexander Romanov,Chase Sherman,F1,HW,Apex,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0
+Daniel Lacerda,Francisco Figueiredo,F2,FYW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0
+Gabe Green,Yohann Lainesse,F1,WW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,1
+Natan Levy,Mike Breeden,F1,LW,Apex,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0
+Clay Guida,Claudio Puelles,F2,LW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,0,1,0
+Lando Vannata,Charles Jourdain,F2,FW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0
+Jordan Wright ,Marc Barriault,F2,MW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+Dwight Grant,Sergey Khandozhko,F2,WW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1
+Tyson Pedro,Ike Villanueva,F1,LHW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1
+Aoriqileng,Cameron Else,F1,BW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Preston Parsons,Evan Elder,F1,WW,Apex,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+Marcin Prachnio,Phillipe Lins,F2,LHW,Apex,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+Dean Barry,Mike Jackson,F2,WW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0
+Vincente Luque,Belal Muhammad,F2,WW,Apex,0,1,0,0,0,0,0,1,0,0,0,1,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0
+Caio Borralho,Gadzhi Omargadzhiev,F1,MW,Apex,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Miguel Baeza,Andre Fialho,F2,WW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1
+Pat Sabatini,TJ Laramie,F1,FW,Apex,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Mounir Lazzez,Ange Loosa,F1,WW,Apex,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,0,1,0,0,0
+Devin Clark,William Knight,F1,HW,Apex,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1
+Drakkar Klose,Brandon Jenkins,F1,LW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1
+Rafa Garcia,Jesse Ronson,F1,LW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Chris Barnett,Martin Buday,F2,HW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0
+Jordan Leavitt,Trey Ogden,F1,LW,Apex,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Alatengheili,Kevin Croom,F1,BW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1
+Alexander Volkanovski,Chan Sung Jung,F1,FW,"Jacksonville, FL",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,1
+Aljamain Sterling,Petr Yan,F1,BW,"Jacksonville, FL",1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Giblert Burns,Khamzat Chimaev,F2,WW,"Jacksonville, FL",0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0
+Vinc Pichel,Mark Madsen,F2,LW,"Jacksonville, FL",0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+Ian Garry,Darian Weeks,F1,WW,"Jacksonville, FL",0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0
+Anthony Hernandez,Josh Fremd,F1,MW,"Jacksonville, FL",0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Mickey Gall,Mike Malott,F2,WW,"Jacksonville, FL",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Aleksein Oleinik,Jared Vanderaa,F1,HW,"Jacksonville, FL",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,0,1,0
+Julio Arce,Daniel Santos,F1,BW,"Jacksonville, FL",0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0
+Curtis Blaydes,Chris Daukaus,F1,HW,"Columbus, OH",0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1
+Matt Brown,Bryan Barbarena,F2,WW,"Columbus, OH",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0
+Askar Askarov,Kai Kara-France,F2,FYW,"Columbus, OH",0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+Neil Magny,Max Griffin ,F1,WW,"Columbus, OH",0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+Marc Diakiese,Viacheslav Borshchev,F1,LW,"Columbus, OH",0,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Chris Gutierrez,Batgerel Danaa,F1,BW,"Columbus, OH",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1
+Aliaskhab Khizriev,Denis Tiuliulin,F1,MW,"Columbus, OH",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Matheus Nicolau,David Dvorak,F1,FYW,"Columbus, OH",0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+Luis Saldana,Bruno Souza,F1,FW,"Columbus, OH",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Alexander Volkov,Tom Aspinall,F2,HW,"London, England",0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0
+Arnold Allen,Dan Hooker,F1,FW,"London, England",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1
+Paddy Pimblett,Kazula Vargas,F1,LW,"London, England",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0
+Gunnar Nelson,Takashi Sato,F1,WW,"London, England",0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Jai Herbert,Ilia Topuria,F2,FW,"London, England",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1
+Mike Grundy,Makwan Amirkhani,F2,FW,"London, England",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,1,0
+Shamil Abdurakhimov,Sergei Pavlovich,F2,HW,"London, England",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+Nikita Krylov,Paul Craig,F2,LHW,"London, England",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0
+Jack Shore,Timur Valiev,F1,BW,"London, England",0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+Muhammad Mokaev,Cody Durden,F1,FYW,"London, England",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0
+Thiago Santos,Magomed Ankalaev,F2,LHW,Apex,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+Marlon Moraes,Song Yadong ,F2,BW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1
+Sodiq Yusuff,Alex Caceres,F1,FW,Apex,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+Khalil Rountree,Karl Roberson,F1,LHW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1
+Drew Dober,Terrance McKinney,F1,LW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1
+Alex Pereira,Bruno Silva,F1,MW,Apex,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0
+Matthew Semelsberger,AJ Fletcher,F1,WW,Apex,0,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Trevin Jones,Javid Basharat,F2,BW,Apex,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+Damon Jackson,Kamuela Kirk,F1,FW,Apex,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Dalcha Lungiambula,Cody Brundage,F2,MW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0
+Kris Moutinho,Guido Cannetti,F2,BW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,0,1
+Tafon Nchukwi,Azamat Murzakanov,F2,LHW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,1
+Colby Covington,Jorge Masvidal,F1,WW,"Las Vegas, NV",0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0
+Rafael Dos Anjos,Renato Moicano,F1,LW,"Las Vegas, NV",0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0
+Edson Barboza,Bryce Mitchell,F2,FW,"Las Vegas, NV",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Kevin Holland,Alex Oliveira,F1,WW,"Las Vegas, NV",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1
+Serghei Spivac,Greg Hardy,F1,HW,"Las Vegas, NV",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1
+Jalin Turner,Jamie Mullarkey,F1,LW,"Las Vegas, NV",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Nicolae Negumereanu,Kennedy Nzechukwu,F1,LHW,"Las Vegas, NV",0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0
+Brian Kelleher,Umar Nurmagomedov,F1,FW,"Las Vegas, NV",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0
+Tim Elliot,Tagir Ulanbekov,F1,FYW,"Las Vegas, NV",0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,1,0,1,1,1,0,0,0,0,0,0,0
+Devonte Smith,Ludovit Klein,F2,LW,"Las Vegas, NV",0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Dustin Jacoby,Michel Oleksiejczuk,F1,LHW,"Las Vegas, NV",0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0
+Islam Makhachev,Bobby Green,F1,LW,Apex,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1
+Misha Cirkunov,Wellington Turman,F2,MW,Apex,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0
+Arman tsarukyan,Joel Alvarez,F1,LW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Armen Petrosyan,Gregory Rodrigues,F1,MW,Apex,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+Rong Zhu,Ignacio Bahamondes,F2,LW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0
+Terrance McKinney,Fares Ziam,F1,LW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0
+Alejandro Perez,Jonathan Martinez,F2,FW,Apex,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,1,0,1,1,0,0,0,0,0,0
+Ramiz Brahimaj,Michael Gillmore,F1,WW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,1,0
+Victor Altamirano,Carlos Hernandez,F2,FYW,Apex,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+Johnny Walker,Jamahal Hill,F2,LHW,Apex,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,1
+Kyle Daukus,Jamie Pickett,F1,MW,Apex,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0
+Parker Porter,Alan Baudot,F1,HW,Apex,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+Jim Miller,Nikolas Motta,F1,LW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1
+Joaquin Buckley,Abdul Razak Alhassan,F1,MW,Apex,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Garbiel Benitez,David Onama,F2,FW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,1
+Chas Skelly,Mark Striegl,F1,FW,Apex,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Jonathan Pearce,Christian Rodriguez,F1,FW,Apex,0,0,1,0,1,0,0,1,1,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+Mario Bautista,Jay Perrin,F1,BW,Apex,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Israel Adesanya,Robert Whittaker,F1,MW,"Houston, TX",1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0
+Derrick Lewis,Tai Tuivasa,F2,HW,"Houston, TX",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1
+Jared Cannonier,Derek Brunson,F1,MW,"Houston, TX",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1
+Alexander Hernandez,Renato Moicano,F1,LW,"Houston, TX",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0
+Bobby Green,Nasrat Haqparast,F1,LW,"Houston, TX",0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,1,0,0,0
+Andre Arlovski,Jared Vanderaa,F1,HW,"Houston, TX",0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+Kyler Phillips,Marcelo Rojo,F1,BW,"Houston, TX",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,1,0
+Carlos Ulberg,Fabio Cherant,F1,LHW,"Houston, TX",0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+Mana Martinez,Ronnie Lawrence,F2,BW,"Houston, TX",0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+AJ Dobson,Jacob Malkoun,F2,MW,"Houston, TX",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0
+Dougle Silva de Andrade,Sergey Morozov,F1,BW,"Houston, TX",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,1,0
+Jeremiah Wells,Blood Diamond,F1,WW,"Houston, TX",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+William Knight,Max Grishin,F2,HW,"Houston, TX",0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0
+Jack Hermansson,Sean Strickland,F2,MW,Apex,0,1,0,0,0,0,0,1,0,0,0,0,1,1,1,0,1,0,1,1,0,0,0,0,0,0,0
+Punahele Soriano,Nick Maximov,F2,MW,Apex,0,0,0,1,1,0,0,1,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Shavkat Rakhmonov,Carlston Harris,F1,WW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Sam Alvey,Brendan Allen,F2,LHW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Tresean Gore,Bryan Battle,F2,MW,Apex,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0
+Julian Erosa,Steven Peterson,F1,FW,Apex,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,1,0,1,0,0,0,0,0,0
+Miles Johns,John Castaneda,f2,BW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Hakeem Dawodu,Michae Trizano,F1,FW,Apex,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0
+Chidi Njokuani,Marc Barriault,F1,MW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1
+Jailton Almeida,Danilo Marques,F1,LHW,Apex,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Jason Witt,Phil Rowe,F2,WW,Apex,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1
+Malcom Gordon,Denys Bondar,F1,FYW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,1
+Francis Ngannou,Ciryl Gane,F1,HW,"Anaheim, CA",1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0
+Brandon Moreno,Deiveson Figueiredo,F2,FYW,"Anaheim, CA",1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,1,0,1,1,0,0,0,0,0,0
+Michel Pereira,Andre Fialho,F1,WW,"Anaheim, CA",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0
+Cody Stamann,Said Nurmagomedov,F2,BW,"Anaheim, CA",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0
+Michael Morales,Trevin Giles,F1,WW,"Anaheim, CA",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1
+Raoni Barcelos,Victor Henry,F2,BW,"Anaheim, CA",0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,1,0,0,0,0,0,1,0,0
+Jack Maddalena,Pete Rodriguez,F1,WW,"Anaheim, CA",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Tony Gravely,Saimon Oliveira,F1,BW,"Anaheim, CA",0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Matt Frevola,Genaro Valdez,F1,LW,"Anaheim, CA",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,1
+Calvin Kattar,Giga Chikadze,F1,FW,Apex,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0
+Jake Collier,Chase Sherman,F1,HW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0
+Brandon Royval,Rogerio Bontorin,F1,FYW,Apex,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Dakota Bush,Viacheslav Borshchev,F2,LW,Apex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Bill Algeo,Joanderson Brito,F1,FW,Apex,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Jamie Pickett,Joseph Holmes,F1,MW,Apex,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+Court McGee,Ramiz Brahimaj,F1,WW,Apex,0,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Brian Kelleher,Kevin Croom,F1,FW,Apex,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+TJ Brown,Charles Rosa,F1,LW,Apex,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
