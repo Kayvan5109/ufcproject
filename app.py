@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import random
 
-fighters_altered = pd.read_csv("fighters_altered.csv")
+fighters_altered = pd.read_csv("fighters_altered_updated.csv")
 pure_stat = pd.read_csv("Pure_Stat.csv")
 averages = pd.read_csv("averages.csv")
 
