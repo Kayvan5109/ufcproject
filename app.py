@@ -24,8 +24,8 @@ def single_fighter():
         fighter_data = fighters_altered[fighters_altered["Name"] == name]
         fight_data = pure_stat[(pure_stat["Fighter 1"] == name) | (pure_stat["Fighter 2"] == name)]
         if not fighter_data.empty:
-            st.write(fighter_data)
-            st.write(fight_data)
+            st.dataframe(fighter_data)
+            st.dataframe(fight_data)
         else:
             st.warning("No data found for the entered fighter's name.")
 
@@ -39,9 +39,9 @@ def compare_fighters():
 
         if not fighter1_data.empty and not fighter2_data.empty:
             st.write("Fighter 1:")
-            st.write(fighter1_data)
+            st.dataframe(fighter1_data)
             st.write("Fighter 2:")
-            st.write(fighter2_data)
+            st.dataframe(fighter2_data)
         else:
             st.warning("No data found for one or both of the entered fighter's names.")
 
@@ -50,11 +50,11 @@ def random_fighter():
         random_name = random.choice(fighters_altered["Name"].values)
         fighter_data = fighters_altered[fighters_altered["Name"] == random_name]
         fight_data = pure_stat[(pure_stat["Fighter 1"] == random_name) | (pure_stat["Fighter 2"] == random_name)]
-        st.write(fighter_data)
-        st.write(fight_data)
+        st.dataframe(fighter_data)
+        st.dataframe(fight_data)
 
 def weight_class_averages():
-    st.write(averages)
+    st.dataframe(averages)
 
 if __name__ == "__main__":
     main()
