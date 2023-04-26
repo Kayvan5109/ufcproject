@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import random
 
+pd.set_option('display.max_columns', None)
 fighters_altered = pd.read_csv("fighters_altered_updated.csv")
 pure_stat = pd.read_csv("Pure_Stat.csv")
 averages = pd.read_csv("averages.csv")
@@ -24,8 +25,8 @@ def single_fighter():
         fighter_data = fighters_altered[fighters_altered["Name"] == name]
         fight_data = pure_stat[(pure_stat["Fighter 1"] == name) | (pure_stat["Fighter 2"] == name)]
         if not fighter_data.empty:
-            st.dataframe(fighter_data)
-            st.dataframe(fight_data)
+            st.write(fighter_data)
+            st.write(fight_data)
         else:
             st.warning("No data found for the entered fighter's name.")
 
@@ -39,9 +40,9 @@ def compare_fighters():
 
         if not fighter1_data.empty and not fighter2_data.empty:
             st.write("Fighter 1:")
-            st.dataframe(fighter1_data)
+            st.write(fighter1_data)
             st.write("Fighter 2:")
-            st.dataframe(fighter2_data)
+            st.write(fighter2_data)
         else:
             st.warning("No data found for one or both of the entered fighter's names.")
 
@@ -50,11 +51,11 @@ def random_fighter():
         random_name = random.choice(fighters_altered["Name"].values)
         fighter_data = fighters_altered[fighters_altered["Name"] == random_name]
         fight_data = pure_stat[(pure_stat["Fighter 1"] == random_name) | (pure_stat["Fighter 2"] == random_name)]
-        st.dataframe(fighter_data)
-        st.dataframe(fight_data)
+        st.write(fighter_data)
+        st.write(fight_data)
 
 def weight_class_averages():
-    st.dataframe(averages)
+    st.write(averages)
 
 if __name__ == "__main__":
     main()
