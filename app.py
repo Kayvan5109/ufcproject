@@ -3,7 +3,7 @@ import pandas as pd
 import random
 
 pd.set_option('display.max_columns', None)
-fighters_altered = pd.read_csv("fighters_altered_updated.csv")
+fighters_altered = pd.read_csv("fighters.csv")
 pure_stat = pd.read_csv("Pure_Stat.csv")
 averages = pd.read_csv("averages.csv")
 
