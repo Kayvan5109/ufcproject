@@ -5,18 +5,19 @@ import random
 pd.set_option('display.max_columns', None)
 fighters_altered = pd.read_csv("fighters.csv")
 pure_stat = pd.read_csv("Pure_Stat.csv")
-averages = pd.read_csv("averages.csv")
+averages = pd.read_csv("mean_per_weight_class.csv")
 
 def main():
     st.title("MMA Statistics App")
 
     single_fighter()
+    st.header("Weight Class Averages")
+    weight_class_averages()
     st.header("Compare Fighters")
     compare_fighters()
     st.header("Random Fighter")
     random_fighter()
-    st.header("Weight Class Averages")
-    weight_class_averages()
+
 
 def single_fighter():
     st.title("Single Fighter")
@@ -29,6 +30,8 @@ def single_fighter():
             st.write(fight_data)
         else:
             st.warning("No data found for the entered fighter's name.")
+def weight_class_averages():
+    st.write(averages)
 
 def compare_fighters():
     name1 = st.text_input("Enter first fighter's name:")
@@ -54,8 +57,7 @@ def random_fighter():
         st.write(fighter_data)
         st.write(fight_data)
 
-def weight_class_averages():
-    st.write(averages)
+
 
 if __name__ == "__main__":
     main()
