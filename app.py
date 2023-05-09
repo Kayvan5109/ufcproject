@@ -5,7 +5,7 @@ import random
 pd.set_option('display.max_columns', None)
 fighters_altered = pd.read_csv("fighters.csv")
 pure_stat = pd.read_csv("Pure_Stat.csv")
-averages = pd.read_csv("mean_per_weight_class.csv")
+averages = pd.read_csv("averages.csv")
 
 def main():
     st.title("MMA Statistics App")
